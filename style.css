@@ -37,6 +37,9 @@ a{
     font-size: 0.9em;  
 }
 
+#a_mail{
+    color: rgb(1, 5, 83);
+}
 
 #foto{
     opacity: 0.5;
@@ -78,7 +81,7 @@ span{
 #typewriter::after{
     content: "";
     border-left: 4px solid yellowgreen;
-    background: #1e4c4c;
+    background: #09473c;
     right: 0;
     height: 100%;
     position: absolute;
@@ -175,7 +178,7 @@ span{
     align-items: center;
 }
 .form_container{
-    background-color: #13303d;
+    background-color: #09473c;
     width: 300px;
     border-radius: 2px;
     box-shadow: 7px 13px 37px #000;
@@ -185,7 +188,7 @@ span{
     align-items: center;
 }
 .controls{
-    background-color: #13303d;
+    background-color: #09473c;
     border-radius: 2px;
     margin-bottom: 16px;
     border: 1px solid #0D065B;
